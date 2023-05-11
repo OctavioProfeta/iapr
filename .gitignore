@@ -1,5 +1,4 @@
-**/*.jpg
-**/*.png
 **/*.pth
 **/*.svg
+/data
 .DS_STORE
